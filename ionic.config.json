@@ -1,0 +1,7 @@
+{
+    "name": "lgproject",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }

@@ -1,0 +1,17 @@
+html,body {
+    background-image: url("background.jpg");
+    background-color: #0997aa;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment: fixed;
+
+   }
+
+.content {
+    position:absolute; 
+    width:100%; 
+    top:100%; 
+    height: 100px;
+}

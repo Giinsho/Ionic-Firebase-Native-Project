@@ -1,0 +1,8 @@
+{
+	"appId": "io.ionic.lgproject",
+	"appName": "lgproject",
+	"bundledWebRuntime": false,
+	"npmClient": "npm",
+	"webDir": "build",
+	"cordova": {}
+}
